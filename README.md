@@ -1,6 +1,6 @@
 <h2 align="center">Hi <img src="wave.gif" width="30px">, I'm Malek Alajil</h1>
 
-<h3 align="center">I'm passionate about Software Engineering and AI, and I want to leave my fingerprint in this field.<br/>
+<h3 align="center">I'm passionate about Software Engineering and AI, and I want to leave my fingerprint in these fields.<br/>
 My ultimate goal is to make people's lives easier and happier.<br/>
 #Ai, #Software_Engineer, #Data_Analyst, #Dot_Net, #Android<br/>
 </h3>
