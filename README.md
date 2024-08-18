@@ -1,18 +1,20 @@
 <h2 align="center">Hi <img src="wave.gif" width="30px">, I'm Malek Alajil</h1>
 
-<h3 align="center">A passionate Software Engineer from Syria.
-Right now I'm pursuing a master's degree in Artificial Intelligence at the #Aleppo_University and a Nanodgree in Data Analysis Power BI at #Udacity, I also have extensive experience in Software Engineering for more than 4 years.
-I'm passionate about Technology and want to leave my fingerprint in this field.
-My ultimate goal is to make people's lives easier and happier.
-#Ai, #Software_Engineer, #Data_Analyst, #Dot_Net, #Android
+<h3 align="center">I'm passionate about Technology and want to leave my fingerprint in this field.<br/>
+My ultimate goal is to make people's lives easier and happier.<br/>
+#Ai, #Software_Engineer, #Data_Analyst, #Dot_Net, #Android<br/>
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=younesfetouaki&label=Profile%20views&color=0e75b6&style=flat" alt="MalekAlajil" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=malekajil&label=Profile%20views&color=0e75b6&style=flat" alt="MalekAlajil" /> </p>
 
 # 💫 About Me:
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-🌱 I’m currently learning React, Vue.js, Angular ....<br><br>👨‍💻 All of my projects are available at https://alajil-malek.netlify.app<br><br>💬 Ask me about C#, C, C++, Python, Java, JavaScript, SQL, Power Bi, Excel, RESTful APIs. <br><br>📫 How to reach me malek.alajil@gmail.com<br><br>📄 Know about my experiences https://res.cloudinary.com/dec4mifcv/image/upload/v1718842792/PORTFOLIO%20RESUME/lx0uc7lvv3msa3xdzkqa.png
+🌱 I’m currently pursuing a master's degree in Artificial Intelligence at the #Aleppo_University and a Nanodgree in Data Analysis Power BI at #Udacity, I also have extensive experience in Software Engineering for more than 4 years.....<br><br>
+👨‍💻 All of my projects are available at https://alajil-malek.netlify.app<br><br>
+💬 Ask me about C#, C, C++, Python, Java, HTML, CSS, JavaScript, SQL, Power Bi, Excel, ASP.net MVC, ASP.net Core, RESTful APIs. <br><br>
+📫 How to reach me malek.alajil@gmail.com<br><br>
+📄 Know about my experiences https://res.cloudinary.com/dec4mifcv/image/upload/v1718842792/PORTFOLIO%20RESUME/lx0uc7lvv3msa3xdzkqa.png
 
 
 ## 🌐 Socials:
