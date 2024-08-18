@@ -48,4 +48,4 @@ My ultimate goal is to make people's lives easier and happier.<br/>
 
 ## oh no a snake is eating my contributions !!!!!
 
-<img alt="snake eating my contributions" src="https://github.com/MalekAjil/MalekAjil/blob/output/github-contribution-grid-snake.svg"/>
+<img alt="snake eating my contributions" src="https://github.com/MalekAjil/MalekAjil/blob/main/github-contribution-grid-snake.svg"/>
