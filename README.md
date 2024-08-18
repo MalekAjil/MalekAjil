@@ -14,7 +14,7 @@ My ultimate goal is to make people's lives easier and happier.<br/>
 👨‍💻 All of my projects are available at https://alajil-malek.netlify.app<br><br>
 💬 Ask me about C#, C, C++, Python, Java, HTML, CSS, JavaScript, SQL, Power Bi, Excel, ASP.net MVC, ASP.net Core, and RESTful APIs. <br><br>
 📫 How to reach me malek.alajil@gmail.com<br><br>
-📄 Know about my experiences https://res.cloudinary.com/dec4mifcv/image/upload/v1718842792/PORTFOLIO%20RESUME/lx0uc7lvv3msa3xdzkqa.png
+📄 Know about my experiences https://drive.google.com/file/d/1_XRFLMjgVnnFA_Y1-h56LPHpfuhnL154/view?usp=sharing
 
 
 ## 🌐 Socials:
