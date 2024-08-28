@@ -11,7 +11,6 @@ My ultimate goal is to make people's lives easier and happier.<br/>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 🌱 I’m currently pursuing a master's degree in Artificial Intelligence at the #Aleppo_University and a Nanodgree in Data Analysis Power BI at #Udacity, I also have extensive experience in Software Engineering for more than 4 years.....<br><br>
-👨‍💻 All of my projects are available at https://alajil-malek.netlify.app<br><br>
 💬 Ask me about C#, C, C++, Python, Java, HTML, CSS, JavaScript, SQL, Power Bi, Excel, ASP.net MVC, ASP.net Core, and RESTful APIs. <br><br>
 📫 How to reach me malek.alajil@gmail.com<br><br>
 📄 Know about my experiences https://drive.google.com/file/d/1_XRFLMjgVnnFA_Y1-h56LPHpfuhnL154/view?usp=sharing
